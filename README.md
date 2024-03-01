@@ -3,4 +3,5 @@ The project's goal is to provide online reservations for movie tickets. Anyone w
 # Features:
 # Technologies:
 # Link 
-https://github.com/Nghiait158/CinemaBooking-Project
+Proposal:
+https://mphcmiuedu-my.sharepoint.com/:w:/g/personal/ititiu21254_student_hcmiu_edu_vn/EdthnHi0D7FEvVNHuhY1EUYByesw0pIxZ59r0NvV3FiNaw?e=yMObTY
